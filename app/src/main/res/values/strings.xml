@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QR GEPESAT</string>
+    <string-array name="tipo_servicio">
+        <item>Inicio limpieza</item>
+        <item>Fin limpieza</item>
+    </string-array>
+
+</resources>
